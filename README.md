@@ -25,5 +25,5 @@ My role focused on the **minigame development**, including:
 - Due to privacy, only the script related to my contribution (the minigame) is included here. The full project and assets are not shared.
   
   ---
-Here is demo link: 
+Here is demo link: https://youtu.be/vzzJuGRF6KU
 
